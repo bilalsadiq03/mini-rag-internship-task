@@ -46,9 +46,9 @@ if __name__ == "__main__":
 
     print(query)
 
-    print("\nRETRIEVED CONTEXT:\n")
+    # print("\nRETRIEVED CONTEXT:\n")
 
-    for i, result in enumerate(results, 1):
-        print(f"[{i}] Source: {result['source']} | Score: {result['score']:.4f}")
-        print(result["content"])
-        print("-" * 80)
+    # for i, result in enumerate(results, 1):
+    #     print(f"[{i}] Source: {result['source']} | Score: {result['score']:.4f}")
+    #     print(result["content"])
+    #     print("-" * 80)
