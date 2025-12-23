@@ -13,7 +13,7 @@
 - Queries related to pricing, quality checks, and transparency showed strong alignment.
 - Some broader questions retrieved overlapping but still useful context.
 
-![alt text](evaluation_results/image.pngimage.png)
+![alt text](evaluation_results/image.png)
 
 ### Out-of-Scope Query Handling
 - Queries not covered by the document corpus correctly resulted in
